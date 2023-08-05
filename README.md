@@ -21,7 +21,7 @@ Asynchronus by callback method
 - Put 
 ![image](https://github.com/fayzirahmonrahmonov/lecture7/assets/133873684/aeb2320f-0cde-499d-97b5-25fc5b990618)
 
-#Post practice
+- Post practice
 
 ![image](https://github.com/fayzirahmonrahmonov/lecture7/assets/133873684/95e2110d-5474-4798-b767-19ea02716520)
 ![image](https://github.com/fayzirahmonrahmonov/lecture7/assets/133873684/729b589c-33ae-4e8e-88c1-34f3cac31c07)
