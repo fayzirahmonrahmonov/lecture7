@@ -12,6 +12,7 @@ Asynch/await method
 ![image](https://github.com/fayzirahmonrahmonov/lecture7/assets/133873684/76f41777-1ffb-45db-8f62-7ba71800d78f)
 
 Get 
+
 ![image](https://github.com/fayzirahmonrahmonov/lecture7/assets/133873684/8c5ffb5d-9aa3-4808-8c05-dfeeca0346d4)
 
 Post 
